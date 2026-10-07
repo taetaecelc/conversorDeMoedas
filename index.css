@@ -1,0 +1,11 @@
+body{
+    background-color: darkseagreen;
+}
+
+#card{
+    background-color: darkgreen;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px;
+}
